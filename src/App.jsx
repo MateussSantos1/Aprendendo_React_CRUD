@@ -50,8 +50,8 @@ const App = () => {
       fontFamily="poppins"
     >
       <Box maxW={800} w="100%" h="100vh" py={10} px={2}>
-        <Button colorScheme="blue" onClick={() => [setDataEdit({}), onOpen()]}>
-          NOVO CADASTRO
+        <Button colorScheme="orange" onClick={() => [setDataEdit({}), onOpen()]}>
+          Cadastrar Novo Aluno
         </Button>
 
         <Box overflowY="auto" height="100%">
