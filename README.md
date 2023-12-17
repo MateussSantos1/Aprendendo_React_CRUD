@@ -3,7 +3,7 @@
 <h3 align="left">Versão Inicial:</h3>
 
 
-<a href="https://aprendendoreactcrud.netlify.app"><li align="left">Site no NetFly</li></a>
+
 
 
 
